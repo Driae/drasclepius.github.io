@@ -1,0 +1,84 @@
+.container {
+    max-width: 60%;
+    margin: auto;
+    background-color: aliceblue;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #89bbf0;
+    margin: auto;
+}
+ul {
+    display: flex;
+    list-style: none;
+}
+li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+img {
+    margin-left: 12px;
+    height: 30px;
+    padding: 15px;
+}
+.maincont {
+    display: flex;
+    padding-top: 3%;
+}
+.Asclepius {
+    width: 20%;
+    height: 20%;
+    border-radius: 10%;
+}
+.info {
+    margin-left: 5%;
+    align-content: center
+}
+h1 {
+    margin-bottom: 3%;
+    font-size: 27px;
+}
+.info2 {
+    font-size: 20px;
+}
+.gallery {
+    text-align: center;
+    margin: 5%;
+}
+.galitem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.galphoto {
+    width: 30%; 
+    height: 30%;
+    border-radius: 10%;
+}
+.footer {
+    background-color: rgb(63, 63, 63);
+    text-align: center;
+    color: white;
+    
+}
+.tel {
+    display: flex;
+    padding: 5%;
+    align-items: center;
+    justify-content: center;
+} 
+.socmed {
+    padding-bottom: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.stolb {
+   margin-left: 3%;
+}
